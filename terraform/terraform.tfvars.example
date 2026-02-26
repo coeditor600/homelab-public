@@ -1,0 +1,4 @@
+proxmox_urlproxmox_api_token = "test@test!test=aaaaaaaaaaaaaaaaaaaaaaaaaa"
+proxmox_url =" https://test:8006/"
+ssh_key_home = "value"
+ssh_key_laptop = "value"
